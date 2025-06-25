@@ -44,4 +44,4 @@ VITE_FIREBASE_MEASUREMENT_ID=your_measurement_id
 npm run dev
 ```
 ### 🌐 Live Demo
-[Play it here]([)](https://wordle-d89b8.web.app/)
+[Play it here] (https://wordle-d89b8.web.app/)
